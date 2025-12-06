@@ -12,4 +12,5 @@
     <Project Path="HMCTS.TaskTracker.Tests.UnitTests/HMCTS.TaskTracker.Tests.UnitTests.csproj" Id="d28da767-32fb-493c-83b8-13f2b8f5cbb0" />
     <Project Path="HMCTS.TaskTracker.Tests/HMCTS.TaskTracker.Tests.Api.csproj" Id="7104dcb7-6f96-416b-90a2-b5a1730947ba" />
   </Folder>
+  <Project Path="HMCTS.TaskTracker.Common/HMCTS.TaskTracker.Common.csproj" Id="0e839360-2b15-44d6-95f8-aa355bbbe60a" />
 </Solution>

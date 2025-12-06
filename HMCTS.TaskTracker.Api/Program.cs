@@ -1,3 +1,7 @@
+using HMCTS.TaskTracker.Services;
+using HMCTS.TaskTracker.Data;
+using HMCTS.TaskTracker.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +10,12 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddLogging();
+builder.Services.AddControllers();
+builder.Services.AddDataServices(builder.Configuration);
+builder.Services.AddAppServices();
+builder.Services.AddRepoServices();
+
 
 var app = builder.Build();
 

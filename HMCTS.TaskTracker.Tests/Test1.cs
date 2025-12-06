@@ -1,4 +1,4 @@
-﻿namespace HMCTS.TaskTracker.Tests
+﻿namespace HMCTS.TaskTracker.Tests.Api
 {
     [TestClass]
     public sealed class Test1

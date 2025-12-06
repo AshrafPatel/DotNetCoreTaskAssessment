@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="16.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HMCTS.TaskTracker.Data\HMCTS.TaskTracker.Data.csproj" />
+    <ProjectReference Include="..\HMCTS.TaskTracker.Dto\HMCTS.TaskTracker.Dto.csproj" />
+  </ItemGroup>
+
 </Project>
