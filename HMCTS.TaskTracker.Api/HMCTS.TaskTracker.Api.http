@@ -1,0 +1,6 @@
+@HMCTS.TaskTracker.Api_HostAddress = http://localhost:5163
+
+GET {{HMCTS.TaskTracker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

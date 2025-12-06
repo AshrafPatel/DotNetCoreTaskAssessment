@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Project/">
+    <Project Path="HMCTS.TaskTracker.Api/HMCTS.TaskTracker.Api.csproj" />
+    <Project Path="HMCTS.TaskTracker.Data/HMCTS.TaskTracker.Data.csproj" Id="a3884d28-1e8e-40d4-91d9-dccab4537179" />
+    <Project Path="HMCTS.TaskTracker.Dto/HMCTS.TaskTracker.Dto.csproj" Id="a2006026-2e3a-43cd-ada9-98ab074fc02b" />
+    <Project Path="HMCTS.TaskTracker.Repositories/HMCTS.TaskTracker.Repositories.csproj" Id="794c0cad-1e55-4bbd-9abf-374aed0ed88f" />
+    <Project Path="HMCTS.TaskTracker.Services/HMCTS.TaskTracker.Services.csproj" Id="4f54ad12-cd44-4412-868b-86ef3a46473d" />
+    <Project Path="HMCTS.TaskTracker.Ui/HMCTS.TaskTracker.Ui.csproj" Id="fd8f86b4-9615-4952-9af6-2251e86d855a" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="HMCTS.TaskTracker.Tests.Ui/HMCTS.TaskTracker.Tests.Ui.csproj" Id="edbeff65-04d3-4451-92c4-127734b50fe7" />
+    <Project Path="HMCTS.TaskTracker.Tests.UnitTests/HMCTS.TaskTracker.Tests.UnitTests.csproj" Id="d28da767-32fb-493c-83b8-13f2b8f5cbb0" />
+    <Project Path="HMCTS.TaskTracker.Tests/HMCTS.TaskTracker.Tests.Api.csproj" Id="7104dcb7-6f96-416b-90a2-b5a1730947ba" />
+  </Folder>
+</Solution>

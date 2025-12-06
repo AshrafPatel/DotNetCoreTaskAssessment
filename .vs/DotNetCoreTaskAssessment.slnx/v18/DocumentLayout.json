@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBEFF65-04D3-4451-92C4-127734B50FE7}|HMCTS.TaskTracker.Tests.Ui\\HMCTS.TaskTracker.Tests.Ui.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.tests.ui\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBEFF65-04D3-4451-92C4-127734B50FE7}|HMCTS.TaskTracker.Tests.Ui\\HMCTS.TaskTracker.Tests.Ui.csproj|solutionrelative:hmcts.tasktracker.tests.ui\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28DA767-32FB-493C-83B8-13F2B8F5CBB0}|HMCTS.TaskTracker.Tests.UnitTests\\HMCTS.TaskTracker.Tests.UnitTests.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.tests.unittests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28DA767-32FB-493C-83B8-13F2B8F5CBB0}|HMCTS.TaskTracker.Tests.UnitTests\\HMCTS.TaskTracker.Tests.UnitTests.csproj|solutionrelative:hmcts.tasktracker.tests.unittests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7104DCB7-6F96-416B-90A2-B5A1730947BA}|HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.Api.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.tests\\hmcts.tasktracker.tests.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7104DCB7-6F96-416B-90A2-B5A1730947BA}|HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.Api.csproj|solutionrelative:hmcts.tasktracker.tests\\hmcts.tasktracker.tests.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7104DCB7-6F96-416B-90A2-B5A1730947BA}|HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7104DCB7-6F96-416B-90A2-B5A1730947BA}|HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.csproj|solutionrelative:hmcts.tasktracker.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7104DCB7-6F96-416B-90A2-B5A1730947BA}|HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7104DCB7-6F96-416B-90A2-B5A1730947BA}|HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.csproj|solutionrelative:hmcts.tasktracker.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F54AD12-CD44-4412-868B-86EF3A46473D}|HMCTS.TaskTracker.Services\\HMCTS.TaskTracker.Services.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.services\\tasks\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F54AD12-CD44-4412-868B-86EF3A46473D}|HMCTS.TaskTracker.Services\\HMCTS.TaskTracker.Services.csproj|solutionrelative:hmcts.tasktracker.services\\tasks\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F54AD12-CD44-4412-868B-86EF3A46473D}|HMCTS.TaskTracker.Services\\HMCTS.TaskTracker.Services.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.services\\tasks\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F54AD12-CD44-4412-868B-86EF3A46473D}|HMCTS.TaskTracker.Services\\HMCTS.TaskTracker.Services.csproj|solutionrelative:hmcts.tasktracker.services\\tasks\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794C0CAD-1E55-4BBD-9ABF-374AED0ED88F}|HMCTS.TaskTracker.Repositories\\HMCTS.TaskTracker.Repositories.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.repositories\\tasks\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794C0CAD-1E55-4BBD-9ABF-374AED0ED88F}|HMCTS.TaskTracker.Repositories\\HMCTS.TaskTracker.Repositories.csproj|solutionrelative:hmcts.tasktracker.repositories\\tasks\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2006026-2E3A-43CD-ADA9-98AB074FC02B}|HMCTS.TaskTracker.Dto\\HMCTS.TaskTracker.Dto.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2006026-2E3A-43CD-ADA9-98AB074FC02B}|HMCTS.TaskTracker.Dto\\HMCTS.TaskTracker.Dto.csproj|solutionrelative:hmcts.tasktracker.dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794C0CAD-1E55-4BBD-9ABF-374AED0ED88F}|HMCTS.TaskTracker.Repositories\\HMCTS.TaskTracker.Repositories.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.repositories\\tasks\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794C0CAD-1E55-4BBD-9ABF-374AED0ED88F}|HMCTS.TaskTracker.Repositories\\HMCTS.TaskTracker.Repositories.csproj|solutionrelative:hmcts.tasktracker.repositories\\tasks\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3884D28-1E8E-40D4-91D9-DCCAB4537179}|HMCTS.TaskTracker.Data\\HMCTS.TaskTracker.Data.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.data\\dbcontext\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3884D28-1E8E-40D4-91D9-DCCAB4537179}|HMCTS.TaskTracker.Data\\HMCTS.TaskTracker.Data.csproj|solutionrelative:hmcts.tasktracker.data\\dbcontext\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3884D28-1E8E-40D4-91D9-DCCAB4537179}|HMCTS.TaskTracker.Data\\HMCTS.TaskTracker.Data.csproj|c:\\users\\ashraf patel\\desktop\\dotnetcoretaskassessment\\hmcts.tasktracker.data\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3884D28-1E8E-40D4-91D9-DCCAB4537179}|HMCTS.TaskTracker.Data\\HMCTS.TaskTracker.Data.csproj|solutionrelative:hmcts.tasktracker.data\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HMCTS.TaskTracker.Tests.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.Api.csproj",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.Api.csproj",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.Api.csproj",
+              "RelativeToolTip": "HMCTS.TaskTracker.Tests\\HMCTS.TaskTracker.Tests.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T17:51:38.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests.Ui\\Test1.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Tests.Ui\\Test1.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests.Ui\\Test1.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Tests.Ui\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:03:11.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests.UnitTests\\Test1.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Tests.UnitTests\\Test1.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests.UnitTests\\Test1.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Tests.UnitTests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:02:00.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:56:18.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Services\\Tasks\\ITaskService.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Services\\Tasks\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Services\\Tasks\\ITaskService.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Services\\Tasks\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:55:58.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Repositories\\Tasks\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Repositories\\Tasks\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Repositories\\Tasks\\ITaskRepository.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Repositories\\Tasks\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:54:58.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Data\\DbContext\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Data\\DbContext\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Data\\DbContext\\TaskDbContext.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Data\\DbContext\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:40:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Tests\\Test1.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Tests\\Test1.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Tests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:34:32.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Dto\\TaskDto.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Dto\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Dto\\TaskDto.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Dto\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:32:12.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Data\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Data\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Data\\Models\\Task.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Data\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:30:14.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Services\\Tasks\\TaskService.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Services\\Tasks\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Services\\Tasks\\TaskService.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Services\\Tasks\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:29:26.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Repositories\\Tasks\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskTracker.Repositories\\Tasks\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\Ashraf Patel\\Desktop\\DotNetCoreTaskAssessment\\HMCTS.TaskTracker.Repositories\\Tasks\\TaskRepository.cs",
+              "RelativeToolTip": "HMCTS.TaskTracker.Repositories\\Tasks\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:28:54.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
