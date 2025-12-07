@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HMCTS.TaskTracker.Tests.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7caf1e8f54fb51d95ff964c3789dfb3d352251be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a56960fbfc61732d7ab7d0f735d9acf0b0fc5f3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HMCTS.TaskTracker.Tests.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HMCTS.TaskTracker.Tests.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

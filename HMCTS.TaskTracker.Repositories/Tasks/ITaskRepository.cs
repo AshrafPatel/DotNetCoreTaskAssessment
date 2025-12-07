@@ -12,8 +12,8 @@ namespace HMCTS.TaskTracker.Repositories.Tasks
     {
         Task<TaskEntity> AddAsync(TaskEntity taskData);
         Task<bool> DeleteAsync(Guid id);
-        Task<List<TaskEntity>> GetAllContacts();
-        Task<TaskEntity?> GetContactAsync(Guid id);
+        Task<List<TaskEntity>> GetAllTasks();
+        Task<TaskEntity?> GetTaskAsync(Guid id);
         Task<TaskEntity?> UpdateAsync(Guid id, TaskEntity taskData);
     }
 }

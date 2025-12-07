@@ -1,5 +1,6 @@
 ﻿using HMCTS.TaskTracker.Data;
 using HMCTS.TaskTracker.Data.Models;
+using HMCTS.TaskTracker.Dto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,10 +11,10 @@ namespace HMCTS.TaskTracker.Services.Tasks
 {
     public interface ITaskService
     {
-        Task<TaskEntity> AddTaskAsync(TaskEntity taskData);
+        Task<TaskDto>? AddTaskAsync(TaskDto taskData);
         Task<bool> DeleteTaskAsync(Guid id);
-        Task<List<TaskEntity>> GetAllTasksAsync();
-        Task<TaskEntity?> GetTaskAsync(Guid id);
-        Task<TaskEntity?> UpdateTaskAsync(Guid id, TaskEntity taskData);
+        Task<List<TaskDto>> GetAllTasksAsync();
+        Task<TaskDto>? GetTaskAsync(Guid id);
+        Task<TaskDto>? UpdateTaskAsync(Guid id, TaskDto taskData);
     }
 }

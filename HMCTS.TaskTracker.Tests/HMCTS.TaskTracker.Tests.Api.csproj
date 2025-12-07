@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="MSTest" Version="4.0.1" />
+    <PackageReference Include="xunit" Version="2.9.3" />
   </ItemGroup>
 
   <ItemGroup>
@@ -16,8 +17,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controller\" />
     <Folder Include="Integration\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HMCTS.TaskTracker.Api\HMCTS.TaskTracker.Api.csproj" />
+    <ProjectReference Include="..\HMCTS.TaskTracker.Data\HMCTS.TaskTracker.Data.csproj" />
   </ItemGroup>
 
 </Project>

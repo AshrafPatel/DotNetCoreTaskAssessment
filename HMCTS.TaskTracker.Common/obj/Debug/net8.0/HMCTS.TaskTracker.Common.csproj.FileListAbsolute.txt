@@ -1,0 +1,12 @@
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\bin\Debug\net8.0\HMCTS.TaskTracker.Common.deps.json
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\bin\Debug\net8.0\HMCTS.TaskTracker.Common.dll
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\bin\Debug\net8.0\HMCTS.TaskTracker.Common.pdb
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\obj\Debug\net8.0\HMCTS.TaskTracker.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\obj\Debug\net8.0\HMCTS.TaskTracker.Common.AssemblyInfoInputs.cache
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\obj\Debug\net8.0\HMCTS.TaskTracker.Common.AssemblyInfo.cs
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\obj\Debug\net8.0\HMCTS.TaskTracker.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\obj\Debug\net8.0\HMCTS.TaskTracker.Common.sourcelink.json
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\obj\Debug\net8.0\HMCTS.TaskTracker.Common.dll
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\obj\Debug\net8.0\refint\HMCTS.TaskTracker.Common.dll
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\obj\Debug\net8.0\HMCTS.TaskTracker.Common.pdb
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Common\obj\Debug\net8.0\ref\HMCTS.TaskTracker.Common.dll

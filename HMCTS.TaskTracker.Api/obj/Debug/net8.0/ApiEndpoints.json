@@ -1,23 +1,18 @@
 [
   {
-    "ContainingType": "HMCTS.TaskTracker.Api.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
+    "ContainingType": "HMCTS.TaskTracker.Api.Controllers.TaskController",
+    "Method": "CreateTask",
+    "RelativePath": "Task",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HMCTS.TaskTracker.Api.WeatherForecast, HMCTS.TaskTracker.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "task",
+        "Type": "HMCTS.TaskTracker.Dto.TaskDto",
+        "IsRequired": true
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
   }
 ]

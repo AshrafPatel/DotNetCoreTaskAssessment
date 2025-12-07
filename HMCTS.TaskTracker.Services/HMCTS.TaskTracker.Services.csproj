@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HMCTS.TaskTracker.Data\HMCTS.TaskTracker.Data.csproj" />
     <ProjectReference Include="..\HMCTS.TaskTracker.Dto\HMCTS.TaskTracker.Dto.csproj" />
+    <ProjectReference Include="..\HMCTS.TaskTracker.Repositories\HMCTS.TaskTracker.Repositories.csproj" />
   </ItemGroup>
 
 </Project>

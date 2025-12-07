@@ -1,6 +1,7 @@
 ﻿using HMCTS.TaskTracker.Data;
 using HMCTS.TaskTracker.Data.Data;
 using HMCTS.TaskTracker.Data.Models;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
 namespace HMCTS.TaskTracker.Repositories.Tasks
@@ -14,9 +15,17 @@ namespace HMCTS.TaskTracker.Repositories.Tasks
             _dbContext = taskDbContext ?? throw new ArgumentNullException(nameof(taskDbContext));
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
-        public Task<TaskEntity> AddAsync(TaskEntity taskData)
+        public async Task<TaskEntity> AddAsync(TaskEntity taskData)
         {
-            throw new NotImplementedException();
+            if (taskData == null)
+            {
+                throw new ArgumentNullException(nameof(taskData));
+            }
+            taskData.Id = Guid.NewGuid();
+            await _dbContext.AddAsync(taskData);
+            await _dbContext.SaveChangesAsync();
+            _logger.LogInformation("Added new task with ID {TaskId}", taskData.Id);
+            return taskData;
         }
 
         public Task<bool> DeleteAsync(Guid id)
@@ -24,14 +33,24 @@ namespace HMCTS.TaskTracker.Repositories.Tasks
             throw new NotImplementedException();
         }
 
-        public Task<List<TaskEntity>> GetAllContacts()
+        public async Task<List<TaskEntity>> GetAllTasks()
         {
-            throw new NotImplementedException();
+            _logger.LogInformation("Retrieving all tasks from the database.");
+            List<TaskEntity> contacts = await _dbContext.Tasks.ToListAsync();
+            _logger.LogInformation("Retrieved {Count} contacts from database", contacts.Count);
+
+            return contacts;
         }
 
-        public Task<TaskEntity?> GetContactAsync(Guid id)
+        public async Task<TaskEntity?> GetTaskAsync(Guid id)
         {
-            throw new NotImplementedException();
+            _logger.LogInformation("Retrieving task with ID {TaskId} from the database.", id);
+            if (id == Guid.Empty)
+            {
+                throw new ArgumentException($"Invalid Task ID {id}");
+            }
+            TaskEntity? task = await _dbContext.Tasks.SingleOrDefaultAsync(x => x.Id == id);
+            return task;
         }
 
         public Task<TaskEntity?> UpdateAsync(Guid id, TaskEntity taskData)

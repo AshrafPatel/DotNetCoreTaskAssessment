@@ -1,0 +1,16 @@
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\bin\Debug\net10.0\HMCTS.TaskTracker.Data.deps.json
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\bin\Debug\net10.0\HMCTS.TaskTracker.Data.dll
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\bin\Debug\net10.0\HMCTS.TaskTracker.Data.pdb
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\bin\Debug\net10.0\HMCTS.TaskTracker.Common.dll
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\bin\Debug\net10.0\HMCTS.TaskTracker.Common.pdb
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\HMCTS.TaskTracker.Data.csproj.AssemblyReference.cache
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\HMCTS.TaskTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\HMCTS.TaskTracker.Data.AssemblyInfoInputs.cache
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\HMCTS.TaskTracker.Data.AssemblyInfo.cs
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\HMCTS.TaskTracker.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\HMCTS.TaskTracker.Data.sourcelink.json
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\HMCTS.Ta.11277F6D.Up2Date
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\HMCTS.TaskTracker.Data.dll
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\refint\HMCTS.TaskTracker.Data.dll
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\HMCTS.TaskTracker.Data.pdb
+C:\Users\Ashraf Patel\Desktop\DotNetCoreTaskAssessment\HMCTS.TaskTracker.Data\obj\Debug\net10.0\ref\HMCTS.TaskTracker.Data.dll
